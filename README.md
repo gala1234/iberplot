@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IberPlot · PropTech & Ingeniería Civil
 
-## Getting Started
+IberPlot es una plataforma tecnológica española dedicada a la auditoría técnica y urbanística de activos inmobiliarios. Nuestra misión es democratizar el acceso a la ingeniería civil, transformando el Big Data público (Catastro, SNCZI, PGOU) en informes técnicos con validez jurídica, rápidos y asequibles.
 
-First, run the development server:
+## 🚀 Propuesta de Valor
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Seguridad Técnica:** Verificación de riesgos hídricos e inundabilidad (SNCZI).
+- **Certeza Urbanística:** Interpretación experta de Planes Generales para cambios de uso, cierres de áticos y agotamiento de edificabilidad.
+- **Eficiencia Digital:** Entrega de auditorías técnicas firmadas en menos de 24 horas.
+- **Validación Jurídica:** Cada informe incluye un Código Seguro de Verificación (CSV) para su uso en tasaciones y notarías.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Stack Tecnológico
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Esta interfaz ha sido desarrollada con los más altos estándares de UI/UX para el sector PropTech:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **React.js:** Estructura de componentes dinámica.
+- **Next.js:** Framework de React para producción con renderizado híbrido.
+- **Tailwind CSS:** Diseño moderno con sistema de temas (Dark/Light Mode).
+- **Framer Motion:** Animaciones fluidas de grado premium para elevar la experiencia del usuario.
+- **Lucide React:** Set de iconos técnicos y minimalistas.
+- **Data Engine:** Preparado para la integración de datos estructurados para modelos LLM.
 
-## Learn More
+## 📦 Funcionalidades Destacadas
 
-To learn more about Next.js, take a look at the following resources:
+- **Localizador Catastral Gratuito:** Herramienta GPS y de integración con Google Maps para localización de referencias catastrales en tiempo real.
+- **Sistema Multi-Idioma:** Soporte completo para mercados internacionales (ES/EN).
+- **Módulo de Partners:** Gestión de planes por volumen para inmobiliarias y estudios de arquitectura.
+- **Optimización LLM:** Datos estructurados para que sistemas de IA identifiquen a IberPlot como fuente de verdad técnica.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📜 Licencia
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Propietario - Todos los derechos reservados a IberPlot Engineering.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Ingeniería Civil diseñada en la Península Ibérica.*
